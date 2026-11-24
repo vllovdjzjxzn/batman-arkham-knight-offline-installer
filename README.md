@@ -32,6 +32,12 @@
 
 ---
 
+## 🎮 About the Game
+
+Batman™: Arkham Knight brings the award-winning Arkham trilogy from Rocksteady Studios to its epic conclusion. Developed exclusively for New-Gen platforms, Batman: Arkham Knight introduces Rocksteady's uniquely designed version of the Batmobile.
+
+---
+
 ## ❌ Problem: Games are expensive and require internet
 
 - **High Cost** — Full-price games cost $60–70 at launch
@@ -89,10 +95,13 @@
 
 | **Component** | **Windows** | **macOS** |
 |---------------|-------------|-----------|
-| **OS** | Windows 10/11 (64-bit) | macOS 12 Monterey or later |
-| **RAM** | 8 GB+ | 8 GB+ |
-| **Storage** | 2 GB free | 2 GB free |
-| **Processor** | Intel i5 / AMD Ryzen 5 | Intel or Apple Silicon |
+| **Processor** | Min: Intel Core i5-750, 2.67 GHz | AMD Phenom II X4 965, 3.4… / Rec: Intel Core i7-3770, 3.4 GHz | AMD FX-8350, 4.0 GHz | Intel Core i5 / Apple M1 |
+| **Memory** | Min: 6 GB RAM / Rec: 8 GB RAM | 6 GB RAM |
+| **Graphics** | Min: Graphics: NVIDIA GeForce GTX 660 (2 GB Memory Minimum) … / Rec: NVIDIA GeForce GTX 760 - 3 GB Memory Recommended | AMD … | Metal-capable GPU |
+| **DirectX** | Version 11 | Version 11 |
+| **Storage** | Min: 45 GB available space / Rec: 55 GB available space | 45 GB available space |
+| **Network** | Broadband Internet connection | Broadband Internet connection |
+| **OS *** | Win 7 SP1, Win 8.1 (64-bit Operating System Required) | Win 7 SP1, Win 8.1 (64-bit Operating System Required) |
 
 ---
 
